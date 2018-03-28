@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am Neethu. A pre final Year BSc Computer Science Student.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am an Opensource enthusiast. I am involved in some robotics as a hobby. But i am moslty focussed on the hardware part of the robotics rather than the hardware part. I also do some web development.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+neethuds113 [at] gmail.com
